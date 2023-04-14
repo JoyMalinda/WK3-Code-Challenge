@@ -1,0 +1,17 @@
+div#films{
+    position: relative;
+    padding-top: 50px;;
+}
+img{
+    padding-left:900px;
+    height: 800px;
+}
+h1{
+    padding-top: 40px;
+}
+h2{
+    padding-left: 50px;
+}
+div.filmDetails{
+    margin: auto;
+}
